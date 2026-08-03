@@ -26,10 +26,5 @@ This project visualizes the classic "Superstore" dataset to uncover sales perfor
 1. Download the `Sample - Superstore.xlsx` file from this repository.
 2. Open it in Microsoft Excel (ensure macros and content are enabled if prompted).
 
-## 📸 Dashboard Preview
-
-![Dashboard Preview](Dashboard 1.gif)
-
-## 📊 Monthly Sales Table
-
-![Monthly Sales Table](Montly sales table.png)
+![Dashboard Preview](Dashboard_1.gif)
+![Monthly Sales Table](Monthly_sales_table.png)
