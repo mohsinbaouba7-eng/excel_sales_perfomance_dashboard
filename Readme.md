@@ -11,10 +11,9 @@ This project visualizes the classic "Superstore" dataset to uncover sales perfor
 * **Data Visualization:** Custom interactive dashboards, Pivot Charts, and monthly trend graphs (Localized in French/English workflows).
 
 ## 📈 Key Insights & Findings
-* **Central Tendency & Volume:** Transactions average **3.96 items** with a stable median and mode of **4 items**.
-* **Interquartile Range:** The middle 50% of orders range between **3 and 5 items** ($Q1 = 3, Q3 = 5$), highlighting consistent mid-tier purchasing behavior.
-* **Outliers:** Peak transactions reach up to **7 items** (driven by top consumer accounts like Sean O'Donnell).
-* **Seasonality & Profitability:** Category-level breakdowns identify high-yield product segments (Technology vs. Furniture vs. Office Supplies) to guide regional stocking decisions.
+* Central Tendency & Volume (Quantity): Transactions average 3.79 items with a stable median and mode of 3 items, while core orders range between 2 and 5 items (Q1 = 2, Q3 = 5).
+* Fulfillment & Delivery Time: Delivery times average 3.96 days with a stable median and mode of 4 days, and the middle 50% of orders ranging from 3 to 5 days (Q1 = 3, Q3 = 5).
+* Pricing & Discount Strategy: The dataset exhibits a polarized discount strategy with an average markdown of 15.6%, a median of 20%, and extreme values reaching up to 80%.
 
 ## 📂 Workbook Structure
 * `Dashboard`: High-level executive overview featuring KPI charts, regional bars, and category insights.
